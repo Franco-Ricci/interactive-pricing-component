@@ -23,13 +23,13 @@
 
 body {
   font-family: "manrope", sans-serif;
-  background-image: url(/images/bg-pattern.svg);
+  background-image: url(../images/bg-pattern.svg);
   background-repeat: no-repeat;
   background-color: var(--Very-Pale-Blue);
 }
 
 .container__header {
-  background-image: url(/images/pattern-circles.svg);
+  background-image: url(../images/pattern-circles.svg);
   background-repeat: no-repeat;
   background-position: center;
   padding: 3rem;
@@ -188,7 +188,7 @@ body {
 }
 
 .component__list {
-  list-style: url(/images/icon-check.svg);
+  list-style: url(../images/icon-check.svg);
   padding: 20px;
 }
 
