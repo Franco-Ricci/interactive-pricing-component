@@ -97,7 +97,7 @@ body {
 .component__range::-webkit-slider-thumb {
   -webkit-appearance: none;
   appearance: none;
-  background-image: url(/images/icon-slider.svg);
+  background-image: url(../images/icon-slider.svg);
   background-position: center;
   background-color: var(--Strong-Cyan);
   border-radius: 20px;
