@@ -1,6 +1,6 @@
 
 let price = document.querySelector(".price");
-let range = document.getElementById("component__range");
+let range = document.querySelector(".component__range");
 const rangeprogress = document.querySelector(".range__progress");
 const count = document.querySelector(".component__text");
 const button = document.getElementById("switch-1")

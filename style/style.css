@@ -86,7 +86,7 @@ body {
   border-radius: 20px;
 }
 
-#component__range {
+.component__range {
   display: flex;
   appearance: none;
   position: relative;
