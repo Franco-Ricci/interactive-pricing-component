@@ -34,7 +34,7 @@ body {
   background-position: center;
   padding: 3rem;
   text-align: center;
-  margin-bottom: 40px;
+  margin: 40px 0;
 }
 
 .text__header {
@@ -86,7 +86,7 @@ body {
   border-radius: 20px;
 }
 
-.component__range {
+#component__range {
   display: flex;
   appearance: none;
   position: relative;
